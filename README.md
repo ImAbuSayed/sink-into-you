@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sink-into-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Sink Into You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sink-into-you/) |
+| **Get License** | [Obtain a Music License for Sink Into You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sink-into-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the warmth of you breathing close to me
+> Every shadow on the wall is where it's meant to be
+> Take my hand and pull me down into the night
+> I just want to lose my way inside your light
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
