@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sink-into-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Sink Into You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sink-into-you/) |
+| **Get License** | [Obtain a Music License for Sink Into You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sink-into-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2590)
 
 ---
 
