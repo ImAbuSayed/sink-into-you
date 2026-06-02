@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sink Into You
+
+This log tracks the cryptographic history and versioning for the song **Sink Into You** (sink-into-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-03T03:26:13.160046 | `v1` | `2e07339b6b5afa760274e254710b9d6d0d2ec76b8ca147aca47a4aa96eba0c58` | `4e48c9765aff43012d04c24cd9d164c3c945bd62ab72fb4443e9a6ccde3186fc` | `2026-06-03_sink-into-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
